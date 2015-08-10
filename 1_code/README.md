@@ -1,26 +1,23 @@
 Fetus Heartbeat Detector
 ---------------------------------
 How to Use :
-
+software ini menggunakan visual basic untuk menjalankannya
+gambar yang ad berdasarkan dari foto dari ultrasonografi
+software ini menangkap bentuk kepala sehingga kita bisa mengetahui apakah bayi di janin kembar atau tidak
 
 
 More questions :
-fachrul.hasan@gmail.com
-hendyhk1@gmail.com
----------------------------------
+asterico_k@rocketmail.com
+
 Algorithm
 ---------------------------------
 This program use :
 Functionality :
-1. Original Video (Added with Video Capture function from OpenCV).
+1. Original foto (Added langsung dari visual basic code  function from OpenCV).
 2. Threshold Filter (for the use of thresholded windows).
 
 Non-Functionality :
-1. Brightness (Increasing, or Decreasing).
-2. HSV Filter.
-3. Canny Filter.
-4. Frame by Frame Capture.
+
 
 Overview :
 The data use various functions (which is described as void()) for the detector.
-The thresholded video use the trackbar to configure the threshold filter itself.
