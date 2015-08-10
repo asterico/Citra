@@ -1,0 +1,19 @@
+mengecek bayi kembar atau tidak
+---------------------------------
+How to Use :
+Software ini berjalan berdasarkan gambar dari gambar ultrasonografi.
+software ini menangkap gambar yang menurut dia sesuai dengan kepala bayi 
+sehingga kita bisa melihat apakah bayi di dalam janin kembar atau tidak
+
+More questions :
+asterico_k@rocketmail.com
+---------------------------------
+Algorithm
+---------------------------------
+This program use :
+Functionality :
+1. Original foto (Added with Video Capture function from OpenCV).
+2. Threshold Filter (for the use of thresholded windows).
+
+Non-Functionality :
+
